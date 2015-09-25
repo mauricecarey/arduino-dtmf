@@ -1,5 +1,8 @@
 # DTMF Decoder
 
+## Inspiration
+[DTMF Tones for device control](http://lucidscience.com/pro-phone%20number%20decoder-2.aspx)
+
 ## References
 [Serial Printing][print] in Arduino.
 
